@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Course from './Exit.jsx'
+import {Course, Vision, Mission} from './Exit.jsx'
 
 function App() {
   const [count, setCount] = useState(0)

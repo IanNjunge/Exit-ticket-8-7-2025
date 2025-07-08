@@ -45,4 +45,4 @@ function Mission(){
    )
 }
 
-export default {Course, Vision, Mission} 
+export {Course, Vision, Mission} 
